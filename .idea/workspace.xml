@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fd800b42-bee4-4213-8345-5340d4323b36" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/fp_functions/FPFunctions.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="54" column="26" lean-forward="true" selection-start-line="54" selection-start-column="26" selection-end-line="54" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/scala/fp_functions/FPFunctionsTest.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="279">
+              <caret line="27" column="30" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>isIns</find>
+      <find>filename</find>
+      <find>date</find>
+      <find>changes</find>
+      <find>name</find>
+      <find>url</find>
+      <find>commits</find>
+      <find>termux/termux-packages</find>
+      <find>.html</find>
+      <find>.js</find>
+      <find>.json</find>
+      <find>js</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/scala/intro/FunctionsTest.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/intro/Functions.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/intro/PatternMatching.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/dataset/DatasetTest.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/dataset/Dataset.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/intro/Practice.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/intro/ListsTest.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/intro/Lists.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/fp_practice/FPPractice.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/fp_functions/FPFunctionsTest.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/fp_functions/FPFunctions.scala" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="fp-template" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fp-template" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fp-template" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fp-template" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fp-template" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fp-template" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="fp_functions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fp-template" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fp-template" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fp-template" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="fp_functions" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570149920243" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="ScalaTest.FPFunctionsTest">
+    <configuration name="Lists" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="intro.Lists" />
+      <module name="fp-template" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="intro.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DatasetTest" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
+      <module name="fp-template" />
+      <setting name="path" value="dataset.DatasetTest" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="showProgressMessages" value="true" />
+      <setting name="useSbt" value="false" />
+      <setting name="useUiWithSbt" value="false" />
+      <envs />
+      <setting name="testKind" value="Class" />
+      <setting name="path" value="dataset.DatasetTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FPFunctionsTest" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
+      <module name="fp-template" />
+      <setting name="path" value="fp_functions.FPFunctionsTest" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="showProgressMessages" value="true" />
+      <setting name="useSbt" value="false" />
+      <setting name="useUiWithSbt" value="false" />
+      <envs />
+      <setting name="testKind" value="Class" />
+      <setting name="path" value="fp_functions.FPFunctionsTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FPPracticeTest" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
+      <module name="fp-template" />
+      <setting name="path" value="fp_practice.FPPracticeTest" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="showProgressMessages" value="true" />
+      <setting name="useSbt" value="false" />
+      <setting name="useUiWithSbt" value="false" />
+      <envs />
+      <setting name="testKind" value="Class" />
+      <setting name="path" value="fp_practice.FPPracticeTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListsTest" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
+      <module name="fp-template" />
+      <setting name="path" value="intro.ListsTest" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="showProgressMessages" value="true" />
+      <setting name="useSbt" value="false" />
+      <setting name="useUiWithSbt" value="false" />
+      <envs />
+      <setting name="testKind" value="Class" />
+      <setting name="path" value="intro.ListsTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="ScalaTest.FPFunctionsTest" />
+        <item itemvalue="ScalaTest.FPPracticeTest" />
+        <item itemvalue="ScalaTest.ListsTest" />
+        <item itemvalue="ScalaTest.DatasetTest" />
+        <item itemvalue="Application.Lists" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fd800b42-bee4-4213-8345-5340d4323b36" name="Default Changelist" comment="" />
+      <created>1569932905806</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569932905806</updated>
+      <workItem from="1569932909701" duration="11589000" />
+      <workItem from="1569959704358" duration="1489000" />
+      <workItem from="1570014894134" duration="12799000" />
+      <workItem from="1570041355043" duration="24761000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="FPPracticeTest - 2019.10.04 at 01h 58m 40s.xml">
+      <configuration name="FPPracticeTest" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="FPPracticeTest - 2019.10.04 at 02h 32m 32s.xml">
+      <configuration name="FPPracticeTest" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="FPPracticeTest - 2019.10.04 at 02h 36m 49s.xml">
+      <configuration name="FPPracticeTest" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="FPPracticeTest - 2019.10.04 at 02h 38m 16s.xml">
+      <configuration name="FPPracticeTest" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="FPPracticeTest - 2019.10.04 at 02h 38m 42s.xml">
+      <configuration name="FPPracticeTest" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="FPFunctionsTest - 2019.10.04 at 02h 38m 52s.xml">
+      <configuration name="FPFunctionsTest" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="FPFunctionsTest - 2019.10.04 at 02h 39m 26s.xml">
+      <configuration name="FPFunctionsTest" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="FPFunctionsTest - 2019.10.04 at 02h 39m 40s.xml">
+      <configuration name="FPFunctionsTest" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="FPFunctionsTest - 2019.10.04 at 02h 40m 09s.xml">
+      <configuration name="FPFunctionsTest" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="FPFunctionsTest - 2019.10.04 at 02h 40m 31s.xml">
+      <configuration name="FPFunctionsTest" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="50638000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15307583" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5686747" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32891566" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="CheckStyle" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32891566" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24964234" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/scala/intro/PracticeTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/intro/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/intro/PatternMatchingTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/intro/FunctionsTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/fp_practice/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/fp_functions/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/1000_commits.json">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="101">
+          <caret line="2" column="65522" selection-start-line="2" selection-start-column="65517" selection-end-line="2" selection-end-column="65522" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/dataset/util/Commit.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="27" column="35" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/dataset/DatasetTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="36" column="31" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/dataset/Dataset.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="695">
+          <caret line="136" column="18" lean-forward="true" selection-start-line="136" selection-start-column="18" selection-end-line="136" selection-end-column="18" />
+          <folding>
+            <element signature="e#17#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/intro/Lists.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="65" column="8" selection-start-line="65" selection-start-column="8" selection-end-line="65" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/intro/ListsTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/fp_practice/FPPracticeTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/intro/Functions.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="769">
+          <caret line="46" column="5" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/intro/Practice.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="50" column="31" selection-start-line="50" selection-start-column="31" selection-end-line="50" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/intro/PatternMatching.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-801">
+          <caret line="22" column="18" lean-forward="true" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/fp_practice/FPPractice.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="106" column="107" selection-start-line="106" selection-start-column="107" selection-end-line="106" selection-end-column="107" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/fp_functions/FPFunctionsTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="27" column="30" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/fp_functions/FPFunctions.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="54" column="26" lean-forward="true" selection-start-line="54" selection-start-column="26" selection-end-line="54" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
